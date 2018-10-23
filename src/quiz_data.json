@@ -11,6 +11,36 @@
       "instruction_text": "What's your favorite number?",
       "answer_options": ["1", "2", "3", "4"],
       "answer": "4"
+    },
+    {
+      "id": 3,
+      "instruction_text": "What is the capital of the American state of Arizona?",
+      "answer_options": ["Phoenix", "Montgomery", "Tallahassee", "Raleigh"],
+      "answer": "Phoenix"
+    },
+    {
+      "id": 4,
+      "instruction_text": "The body of the Egyptian Sphinx was based on which animal?",
+      "answer_options": ["Bull", "Horse", "Dog", "Lion"],
+      "answer": "Lion"
+    },
+    {
+      "id": 5,
+      "instruction_text": "What is the capital of Indonesia?",
+      "answer_options": ["Bandung", "Jakarta", "Medan", "Palembang"],
+      "answer": "Jakarta"
+    },
+    {
+      "id": 6,
+      "instruction_text": "What colour is the circle on the Japanese flag?",
+      "answer_options": ["White", "Yellow", "Red","Black"],
+      "answer": "Red"
+    },
+    {
+      "id": 7,
+      "instruction_text": "Which of the following languages does NOT use the Latin alphabet?",
+      "answer_options": ["Turkish", "Georgian", "Swahili", "Vietnamese"],
+      "answer": "Georgian"
     }
   ]
 }
